@@ -1,4 +1,4 @@
-# 04_BattleTank
+﻿# 04_BattleTank
 An open world head to head tank game with simple AI, terrain, and advanced control system in UE4
 
 # Unreal Engine Developer Course - Section 4 - Battle Tank
@@ -29,3 +29,7 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 + Constantly asking “what’s least fun”
 + Remember we’re not AAA studios
 + Let’s find the essence of fun of this game.
+
+### 3 Setting up a Github "Repo" ###
+
+
